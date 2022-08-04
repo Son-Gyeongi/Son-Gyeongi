@@ -20,7 +20,7 @@
    맡은 일은 책임을 지고 해냅니다!!<br/>
     <br/> 
    <div align=center> 
-      <a href="wonderson.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
+      <a href="wonderson.tistory.com"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=blog&logoColor=white"> 
       <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=thsruddl77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
       </br></div>
       </br></br>
