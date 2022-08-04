@@ -17,10 +17,10 @@
    <br/>
    안녕하세요:sparkles:<br/>
    JAVA 백엔드 개발자를 꿈꾸는 손경이입니다! <br/>
-   빠르게 습득하고 뭐든 배우려는 자세로 개발에 임하고있습니다.<br/>
+   맡은 일은 책임을 지고 해냅니다!!<br/>
     <br/> 
    <div align=center> 
-      <a href="wonderson.tistory.com"><img src="https://img.shields.io/badge/tistory-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+      <a href="wonderson.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
       <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=thsruddl77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
       </br></div>
       </br></br>
