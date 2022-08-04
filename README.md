@@ -1,16 +1,29 @@
-### Hi there 👋
-
-<!--
-**Son-Gyeongi/Son-Gyeongi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<img src="https://user-images.githubusercontent.com/78200199/182868540-45374524-7d44-466f-9a00-80cd700968f0.png" width="100%"/>
+   <br/>
+<h3 align="center">🛠Tech Stack🛠</h3>
+<h4 align="center">Techs that I've used at least once</h4>
+   <br/>
+<div align=center> 
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+  <br/>
+   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+     <br/>
+        <br/>
+           <br/>
+   <h3 align="center">:blush: About Me</h3>
+   <br/>
+   안녕하세요:sparkles:<br/>
+   JAVA 백엔드 개발자를 꿈꾸는 손경이입니다! <br/>
+   빠르게 습득하고 뭐든 배우려는 자세로 개발에 임하고있습니다.<br/>
+    <br/> 
+   <div align=center> 
+      <a href="wonderson.tistory.com"><img src="https://img.shields.io/badge/tistory-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+      <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=thsruddl77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+      </br></div>
+      </br></br>
+      
+      
+ ![Son-GyeongI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Son-Gyeongi&theme=buefy)
