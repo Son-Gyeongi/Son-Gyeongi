@@ -43,4 +43,5 @@
       </br></br>
       
       
- ![Son-GyeongI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Son-Gyeongi&theme=buefy)
+ ![Son-GyeongI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Son-Gyeongi&theme=buefy)   
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thsruddl77)](https://solved.ac/thsruddl77/)
